@@ -131,7 +131,7 @@ jupyter notebook
 ## 🏢 About Y-Tech Labs
 
 This internship was completed at **Y-Tech Labs** as part of a structured 7-week applied ML program.  
-*Certificate of Experience issued by Y-Tech Labs — July 2024 to August 2024.*
+*Certificate of Experience issued by Y-Tech Labs — July 2023 to August 2023.*
 
 ---
 
